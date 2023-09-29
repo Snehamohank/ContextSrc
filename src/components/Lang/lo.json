@@ -1,0 +1,71 @@
+{
+  "translation": {
+    "hello": "ສະບາຍດີ",
+
+    "language": "ລາວ",
+    "ongoing live session": "ເຊດຊັນສົດທີ່ກຳລັງດຳເນີນຢູ່",
+    "practice questions": "ຄໍາຖາມປະຕິບັດ",
+    "upcoming live session": "ເຊດຊັນສົດທີ່ຈະມາເຖິງ",
+    "completed live session": "ສໍາເລັດກອງປະຊຸມສົດ",
+    "join now": "ເຂົ້າ​ຮ່ວມ​ດຽວ​ນີ້",
+    "view all": "ເບິ່ງ​ທັງ​ຫມົດ",
+    "tutor": "ຄູສອນ",
+    "batch": "ຊຸດ",
+    "expire soon": "ໝົດອາຍຸໃນໄວໆນີ້",
+    "expired": "ໝົດອາຍຸແລ້ວ",
+    "attempt now": "ພະຍາຍາມດຽວນີ້",
+
+    "live videos": "ວິດີໂອສົດ",
+    "all": "ທັງໝົດ",
+    "ongoing": "ທີ່ຈະມາເຖິງ",
+    "upcoming": "ທີ່ຈະມາເຖິງ",
+    "completed": "ສຳເລັດແລ້ວ",
+
+    "practice question": "ຄໍາຖາມປະຕິບັດ",
+    "unattended": "ບໍ່ໄດ້ເອົາໃຈໃສ່",
+    "re-attempt now": "ພະຍາຍາມອີກຄັ້ງດຽວນີ້",
+    "view result": "ເບິ່ງຜົນໄດ້ຮັບ",
+
+    "attempt questions": "ພະຍາຍາມຄໍາຖາມ",
+    "date": "ວັນທີ",
+    "time": "ເວລາ",
+    "mark per question": "ໝາຍຕໍ່ຄຳຖາມ",
+    "negative mark per question": "ເຄື່ອງຫມາຍລົບຕໍ່ຄໍາຖາມ",
+    "total mark": "ເຄື່ອງໝາຍທັງໝົດ",
+    "instructions": "ຄໍາແນະນໍາ",
+
+    "question": "ຄຳຖາມ",
+    "choose answer": "ເລືອກຄໍາຕອບ",
+    "end test": "ສິ້ນສຸດການທົດສອບ",
+    "submit": "ສົ່ງ",
+
+    "result": "ຜົນໄດ້ຮັບ",
+    "correct answers": "ຄໍາຕອບທີ່ຖືກຕ້ອງ",
+    "incorrect answers": "ຄໍາຕອບທີ່ບໍ່ຖືກຕ້ອງ",
+    "not attend": "ບໍ່ເຂົ້າຮ່ວມ",
+    "scored": "ຄະແນນ",
+    "done": "ສຳເລັດແລ້ວ",
+
+    "duration": "ໄລຍະເວລາ",
+    "time remaining": "ເວລາຍັງເຫຼືອ",
+    "total questions": "ຄຳຖາມທັງໝົດ",
+    "submitted": "ສົ່ງແລ້ວ",
+    "not attended": "ບໍ່ໄດ້ເຂົ້າຮ່ວມ",
+    "not answered": "ບໍ່ໄດ້ຕອບ",
+    "questions": "ຄຳຖາມ",
+
+    "started": "ເລີ່ມແລ້ວ",
+    "ended": "ສິ້ນສຸດ",
+    "re-attempt": "ພະຍາຍາມອີກຄັ້ງ",
+
+    "wrong answer": "ຄໍາຕອບຜິດ",
+    "profile": "ໂປຣໄຟລ໌",
+    "edit profile": "ແກ້ໄຂໂປຣໄຟລ໌",
+    "save": "ບັນທຶກ",
+    "school": "ໂຮງຮຽນ",
+    "contact": "ຕິດຕໍ່",
+    "email": "ອີເມວ",
+    "address": "ທີ່ຢູ່",
+    "logout": "ອອກ​ຈາກ​ລະ​ບົບ"
+  }
+}

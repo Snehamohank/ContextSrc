@@ -1,0 +1,72 @@
+{
+  "translation": {
+    "hello": "Hello",
+
+    "language": "English",
+    "ongoing live session": "Ongoing Live Session",
+    "practice questions": "Practice Questions",
+    "upcoming live session": "Upcoming Live Session",
+    "completed live session": "Completed Live Session",
+    "join now": "JOIN NOW",
+    "view all": "View all",
+    "tutor": "Tutor",
+    "batch": "Batch",
+    "expire soon": "Expire soon",
+    "expired": "Expired",
+    "attempt now": "Attempt Now",
+
+    "live videos": "Live Videos",
+    "all": "All",
+    "ongoing": "Ongoing",
+    "upcoming": "Upcoming",
+    "completed": "Completed",
+
+    "practice question": "Practice Question",
+    "unattended": "Unattended",
+    "re-attempt now": "Re-attempt Now",
+    "view result": "View Result",
+
+    "attempt questions": "Attempt Questions",
+    "date": "Date",
+    "time": "Time",
+    "mark per question": "Mark per Question",
+    "negative mark per question": "Negative Mark per Question",
+    "total mark": "Total Mark",
+    "instructions": "Instructions",
+
+    "question": "Question",
+    "choose answer": "Choose Answer",
+    "end test": "END TEST",
+    "submit": "Submit",
+
+    "result": "Result",
+    "correct answers": "Correct Answers",
+    "incorrect answers": "Incorrect Answers",
+    "not attend": "Not Attend",
+    "scored": "Scored",
+    "done": "Done",
+
+    "duration": "Duration",
+    "time remaining": "Time Remaining",
+    "total questions": "Total Questions",
+    "submitted": "Submitted",
+    "not attended": "Not Attended",
+    "not answered": "Not Answered",
+    "questions": "Questions",
+
+    "started": "Started",
+    "ended": "Ended",
+    "re-attempt": "Re-Attempt",
+
+    "wrong answer": "Wrong answer",
+
+    "profile": "Profile",
+    "edit profile": "Edit Profile",
+    "save": "Save",
+    "school": "School",
+    "contact": "Contact",
+    "email": "Email",
+    "address": "Address",
+    "logout": "Logout"
+  }
+}
